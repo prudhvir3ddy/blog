@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "78920d3a48011c58beda11ce50"
+    "apiUrl": "https://prudhvireddy-blog.herokuapp.com",
+    "contentApiKey": "e8cc844b38897380ab75d93b23"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "78920d3a48011c58beda11ce50"
+    "apiUrl": "https://prudhvireddy-blog.herokuapp.com",
+    "contentApiKey": "e8cc844b38897380ab75d93b23"
   }
 }
