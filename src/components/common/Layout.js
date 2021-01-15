@@ -97,15 +97,51 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                         </a>
                                     )}
                                     <a
+                                        href="https://github.com/prudhvir3ddy"
                                         className="site-nav-item"
-                                        href={`https://feedly.com/i/subscription/feed/${config.siteUrl}/rss/`}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
                                         <img
                                             className="site-nav-icon"
-                                            src="/images/icons/rss.svg"
-                                            alt="RSS Feed"
+                                            src="/images/icons/github.svg"
+                                            alt="github"
+                                        />
+                                    </a>
+                                    <a
+                                        href="https://youtube.com/c/prudhvireddym"
+                                        className="site-nav-item"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <img
+                                            className="site-nav-icon"
+                                            src="/images/icons/youtube.svg"
+                                            alt="youtube"
+                                        />
+                                    </a>
+                                    <a
+                                        href="https://instagram.com/prudhvir3ddy"
+                                        className="site-nav-item"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <img
+                                            className="site-nav-icon"
+                                            src="/images/icons/instagram.svg"
+                                            alt="instagram"
+                                        />
+                                    </a>
+                                    <a
+                                        className="site-nav-item"
+                                        href="https://linkedin.com/in/prudhvir3ddy"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <img
+                                            className="site-nav-icon"
+                                            src="/images/icons/linkedin.svg"
+                                            alt="linkedin"
                                         />
                                     </a>
                                 </div>
