@@ -77,7 +77,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                         >
                                             <img
                                                 className="site-nav-icon"
-                                                src="/images/icons/twitter.svg"
+                                                src="/images/icons/tweet.svg"
                                                 alt="Twitter"
                                             />
                                         </a>
@@ -91,7 +91,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                         >
                                             <img
                                                 className="site-nav-icon"
-                                                src="/images/icons/facebook.svg"
+                                                src="/images/icons/fb.svg"
                                                 alt="Facebook"
                                             />
                                         </a>
